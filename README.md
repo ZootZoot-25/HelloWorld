@@ -1,7 +1,8 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` Add app description
+`TODO://` Simple app that allows user to change the background color, text color, text itself, as well as reset everything
+if the user clicks the background.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
