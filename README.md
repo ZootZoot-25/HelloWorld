@@ -1,7 +1,7 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` Simple app that allows user to change the background color, text color, text itself, as well as reset everything
+`TODO://` Simple app that allows the user to change the background color, text color, text itself, as well as reset everything
 if the user clicks the background.
 
 ### App Walk-though
